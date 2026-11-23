@@ -1,0 +1,6 @@
+# Keep survey data out of the public repository
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
